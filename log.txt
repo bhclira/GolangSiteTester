@@ -1,0 +1,4 @@
+12/12/2023 19:41:33 - https://www.alura.com.br - online: true
+12/12/2023 19:41:34 - https://www.caelum.com.br - online: true
+12/12/2023 19:41:39 - https://www.alura.com.br - online: true
+12/12/2023 19:41:39 - https://www.caelum.com.br - online: true
